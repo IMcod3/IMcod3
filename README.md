@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IMcod3
 - 👀 I’m interested in ... Games, Tech, astronomy.
-- 🌱 I’m currently learning ... data engineering, python, cybersecurity.
+- 🌱 I’m currently learning ... Data Analist, python, cybersecurity.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... nope
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm very funny, handsome and a liar
 
