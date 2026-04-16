@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nope
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I'm very funny, handsome and a liar.
+- ⚡ Fun fact: ... I'm very funny, handsome and a liar
 
 <!---
 IMcod3/IMcod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
